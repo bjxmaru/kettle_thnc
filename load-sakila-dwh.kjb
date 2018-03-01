@@ -303,8 +303,8 @@
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>208</xloc>
-      <yloc>176</yloc>
+      <xloc>96</xloc>
+      <yloc>304</yloc>
     </entry>
     <entry>
       <name>set-etl-tran-begin-date</name>
@@ -375,8 +375,8 @@
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>512</xloc>
-      <yloc>176</yloc>
+      <xloc>640</xloc>
+      <yloc>288</yloc>
     </entry>
   </entries>
   <hops>
